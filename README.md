@@ -11,7 +11,7 @@ be blogging on my progress with this project over at my [website][1] where you c
 
 [Exploring VR & UI: Part 1][3]
 
-[Exploring VR & UI: Part 1][4]
+[Exploring VR & UI: Part 2][4]
 
 ## UI Story Boards
 
