@@ -1,5 +1,3 @@
-
-
 # Console Programming (Spring 2020)
 Repository for Console Programming VR/UI project
 
@@ -23,12 +21,10 @@ be blogging on my progress with this project over at my [website][1] where you c
 
 ![alt text](https://github.com/Jagman926/Console_2020/blob/master/UI_Storyboard/UI_Prompt/UI_Prompt.jpg "Push Dial UI Storyboard")
 
-// References:
-
-// Personal Links:
+[comment]: <Personal References>
 [1]: https://www.jgrazda.com
 
-// Blog Links:
+[comment]: <Blog References>
 [2]: https://www.jgrazda.com/blog/categories/exploring-vr-ui
 [3]: https://www.jgrazda.com/post/exploring-vr-ui-part-1
 [4]: https://www.jgrazda.com/post/exploring-vr-ui-part-2
